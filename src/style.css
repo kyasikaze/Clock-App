@@ -53,6 +53,12 @@ h2 {
   font-size: 20px;
   margin-bottom: 20px;
 }
+.homepage {
+  text-decoration: none;
+  font-family: "Handjet", cursive;
+  font-size: 15px;
+  font-weight: bolder;
+}
 .foot {
   text-decoration: none;
   color: black;
