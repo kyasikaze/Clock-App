@@ -1,10 +1,19 @@
 @import url("https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Handjet&display=swap");
 
+body {
+  background-image: url("../media/timewarp.jpg");
+  background-color: black;
+  background-size: cover;
+}
+
 .container {
   max-width: 500px;
+  background-color: rgb(255, 255, 255, 0.7);
+  border-radius: 20px;
   margin: 0 auto;
   text-align: center;
+  padding: 10px;
 }
 h1 {
   display: block;
@@ -17,6 +26,7 @@ select {
   width: 300px;
   padding: 8px;
   border-radius: 5px;
+  font-family: "Bruno Ace SC", cursive;
 }
 h2 {
   font-size: 80px;
