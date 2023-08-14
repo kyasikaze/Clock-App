@@ -4,7 +4,7 @@
 body {
   background-image: url("../media/timewarp.jpg");
   background-color: black;
-  background-size: cover;
+  background-size: auto;
 }
 
 .container {
